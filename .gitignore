@@ -1,6 +1,8 @@
 # History files
 .Rhistory
 .Rapp.history
+.DS_Store
+log/*log
 
 # testing code in package build process
 test1.R
@@ -13,5 +15,4 @@ test2.R
 # main function
 NBA_PredandBetting.R
 NBA_PredictNextGame.R
-NBA_Team_Data_Transfer.R	
-
+NBA_Team_Data_Transfer.R
