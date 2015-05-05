@@ -1,0 +1,17 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# testing code in package build process
+test1.R
+test2.R
+
+# RStudio files
+.Rproj
+.Rproj.user
+
+# main function
+NBA_PredandBetting.R
+NBA_PredictNextGame.R
+NBA_Team_Data_Transfer.R	
+
